@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+body{
+    background: linear-gradient(to right, rgb(61, 194, 235), rgb(255, 255, 255)) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+.submit{
+    width: 100px;
+    height: 18px;
+    margin-left: 50px;
+    margin-top: 8px;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
